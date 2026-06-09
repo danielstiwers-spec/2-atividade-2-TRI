@@ -49,3 +49,53 @@ header a{
     height: 50px;
     background-color: black;
 }
+.features{
+    display: flex;
+    background-color: beige;
+    width: 100%
+}
+.feat1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.feat1 h2{
+    font-size: 25px;
+    font-weight: normal;
+}
+.feat2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.feat2 h2{
+    font-size: 25px;
+    font-weight: normal;
+}
+.feat3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.feat3 h2{
+    font-size: 25px;
+    font-weight: normal;
+}
+.primary{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.primary h2{
+    font-size: 25px;
+    font-weight: normal;
+}
+.primary h1{
+    padding-top: 5%;
+}
+
