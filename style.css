@@ -1,0 +1,26 @@
+header{
+    background-color: beige;
+    width: auto;
+    max-height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header h1{
+    font-size: 40px;
+}
+header h2{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+.img{
+    background-image: url(Screenshot\ 2026-06-09\ 12.26.19.png);
+    width: auto;
+    height: 500px;
+}
+.img h1, h2{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
