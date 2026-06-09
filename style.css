@@ -186,6 +186,7 @@ header a{
     font-size: 25px;
     font-weight: normal;
     margin-top: 0%;
+    width: 90%;
 }
 .calling button{
     width: 235px;
@@ -204,6 +205,7 @@ header a{
 footer{
     display: flex;
     flex-direction: row;
+    background-color: rgb(231 231 209);
 }
 .copyright{
     width: 50%;
@@ -231,11 +233,15 @@ footer{
     align-items: center;
 }
 .company h1{
-    font-size: 25px;
+    font-size: 20px;
 }
 .company h2{
     font-size: 20px;
     font-weight: normal;
+}
+.company a{
+    text-decoration: none;
+    color:black;
 }
 .comp1{
     margin: 2%
