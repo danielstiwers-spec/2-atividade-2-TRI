@@ -20,6 +20,8 @@ header a{
 }
 .img{
     background-image: url(Capa.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
     width: auto;
     height: 500px;
     display: flex;
