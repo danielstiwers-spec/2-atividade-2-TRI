@@ -1,5 +1,5 @@
 header{
-    background-color: beige;
+    background-color: #f5f5dc7d;
     width: auto;
     max-height: 100px;
     display: flex;
@@ -23,7 +23,7 @@ header a{
     background-repeat: no-repeat;
     background-size: 100%;
     width: auto;
-    height: 500px;
+    height: 685px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -59,7 +59,7 @@ header a{
 }
 .features{
     display: flex;
-    background-color: beige;
+    background-color: #f5f5dc7d;
     width: 100%
 }
 .feat1{
@@ -93,7 +93,7 @@ header a{
     font-weight: normal;
 }
 .primary{
-    background-color: beige;
+    background-color: #f5f5dc7d;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -115,7 +115,7 @@ header a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: beige;
+    background-color: #f5f5dc7d;
 }
 .sec1{
     background-color: rgba(128, 128, 128, 0.116);
@@ -182,7 +182,7 @@ header a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: beige;    
+    background-color: #f5f5dc7d;  
 }
 .calling h2{
     font-size: 25px;
